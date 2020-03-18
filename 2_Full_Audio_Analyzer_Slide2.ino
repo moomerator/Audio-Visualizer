@@ -118,7 +118,6 @@ void loop() {
           yCurr[x] = yCurr[x] - 1;}
       }
     leds.show();
-    xxxxx;
     }
   }
 }
